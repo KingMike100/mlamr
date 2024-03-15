@@ -1,0 +1,9 @@
+{
+    "Logistic Regression": {"C": 7.41993941811405, "penalty": "l2"}, 
+    "Random Forest": {"bootstrap": false, "max_depth": 19, "max_features": "sqrt", "min_samples_leaf": 1, "min_samples_split": 5, "n_estimators": 367}, 
+    "SVM": {"C": 9.795846277645586, "gamma": "auto", "kernel": "sigmoid"}, 
+    "Gradient Boosting": {"learning_rate": 0.28448790266313423, "max_depth": 3, "n_estimators": 427, "subsample": 0.7247253370691017}, 
+    "XGBoost": {"colsample_bytree": 0.9692763545078751, "learning_rate": 0.010233629752304298, "max_depth": 6, "n_estimators": 376, "subsample": 0.8087407548138583}, 
+    "LightGBM": {"boosting_type": "dart", "learning_rate": 0.24253984700833436, "n_estimators": 261, "num_leaves": 29, "subsample": 0.9474136752138245}, 
+    "CatBoost": {"depth": 4, "iterations": 230, "learning_rate": 0.26798212202089616}, 
+    "Feed-Forward NN (Keras)": {"optimizer": "adam", "epochs": 100, "batch_size": 32}}
